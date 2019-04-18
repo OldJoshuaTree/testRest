@@ -1,42 +1,40 @@
 {
 "pizzas": [
     {
-      "id": 1,
+  
       "nom": "Regina",
       "base": "tomate",
       "prix_petite": "5,5",
       "prix_grande": "6,5"
     },
     {
-       "id": 2,
+  
        "nom": "Napolitaine",
        "base": "tomate",
        "prix_petite": "5,5",
        "prix_grande": "6,5"
     },
     {
-       "id": 3,
+     
        "nom": "Spicy",
        "base": "tomate",
        "prix_petite": "5,5",
        "prix_grande": "6,5"
     },
     {
-       "id": 4,
        "nom": "Oranaise",
        "base": "tomate",
        "prix_petite": "5,5",
        "prix_grande": "6,5"
     },
     {
-       "id": 5,
        "nom": "Carbonara",
        "base": "tomate",
        "prix_petite": "5,5",
        "prix_grande": "6,5"
     },
     {
-       "id": 6,
+     
        "nom": "Abomination",
        "base": "tomate",
        "prix_petite": "5,5",

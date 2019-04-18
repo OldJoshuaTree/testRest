@@ -9,7 +9,7 @@
     },
     {
        "id": 2,
-       "nom": "Napolitaine",*
+       "nom": "Napolitaine",
       "base": "tomate",
       "prix_petite": "5,5",
       "prix_grande": "6,5"

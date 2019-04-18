@@ -1,21 +1,18 @@
 {
 "pizzas": [
     {
-  
       "nom": "Regina",
       "base": "tomate",
       "prix_petite": "5,5",
       "prix_grande": "6,5"
     },
     {
-  
        "nom": "Napolitaine",
        "base": "tomate",
        "prix_petite": "5,5",
        "prix_grande": "6,5"
     },
     {
-     
        "nom": "Spicy",
        "base": "tomate",
        "prix_petite": "5,5",
@@ -34,7 +31,6 @@
        "prix_grande": "6,5"
     },
     {
-     
        "nom": "Abomination",
        "base": "tomate",
        "prix_petite": "5,5",
